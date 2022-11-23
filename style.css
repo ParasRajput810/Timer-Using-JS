@@ -1,0 +1,48 @@
+*{
+    margin: auto;
+    padding: auto;
+}
+#navbar{
+    height: 50px;
+    background-color: blue;
+    color: azure;
+    display: flex;
+    justify-content: center;
+    font-weight: bolder;
+    font-size: 35px;
+}
+form{
+    margin-top: 80px;
+}
+#newid{
+    display: flex;
+    justify-content: center;
+    height: 150px;
+    width: 450px;
+    background-color: brown;
+    color: white;
+    border-radius: 10px;
+    font-size: 40px;
+}
+.btn1{
+    display: flex;
+    justify-content: center;
+    height: 50px;
+    width: 100px;
+    background-color: royalblue;
+    color: white;
+    border-radius: 10px;
+}
+#modified{
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+}
+body{
+    background-color: burlywood;
+}
+#desc{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
